@@ -1,1 +1,2 @@
-HoloTouch is my senior design project that integrates hand gesture recognition with a holographic display system, allowing users to control a computer through intuitive hand movements. The project utilizes an enclosed box with an acrylic panel set at a 45° angle, a front-facing camera, LED lights, and a display powered by an Nvidia Jetson Nano, employing MediaPipe for hand tracking and PyAutoGUI for gesture-based computer interactions.
+#HoloTouch
+[View Documentation (PDF)](./SDfinalReport_HoloTouch.pdf)
